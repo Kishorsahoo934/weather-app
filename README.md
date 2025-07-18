@@ -13,3 +13,31 @@ This project simplifies the process of accessing and displaying live weather dat
 🔗 Easy Integration: Designed to fit seamlessly into larger web architectures.
 
 📱 Responsive Design: Ensures a smooth experience across devices.
+
+
+Prerequisites
+
+This project requires the following dependencies:
+
+Programming Language: HTML
+
+
+Installation
+
+Build weather-app from the source and install dependencies:
+
+1. Clone the repository:
+
+git clone https://github.com/Kishorsahoo934/weather-app
+
+
+2. Navigate to the project directory:
+
+cd weather-app
+
+
+3. Install the dependencies:
+
+
+
+(Note: Since it's an HTML-only project, there might not be additional dependencies to install unless extended with JS frameworks.)
